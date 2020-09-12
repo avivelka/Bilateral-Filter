@@ -11,7 +11,7 @@ Bilateral filter is an edge-preserving smoothing filter for images.
 ## How To Use
 
 1. Clone the project to your local computer
-2. Add the images you want to be filtered to src
+2. Add the images you want to be filtered to src folder
 3. Change in colored_vectorized_bf.py the names of the images you just added. (line 29)
 4. Run `python3 colored_vectorized_bf.py`
 
