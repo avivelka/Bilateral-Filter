@@ -6,7 +6,7 @@ Bilateral filter is an edge-preserving smoothing filter for images.
  
 * **Implementations** of the Bilateral filter in Python: naive, vectorized, and colored vectorized.
 * **Examples** of the colored vectorized implementation on three different images.
-* **A paper** that explains the theory behind the Bilateral filter (Recommended).
+* **A paper** that explains the theory behind the Bilateral filter algorithm (Recommended).
 
 ## How To Use
 
